@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main(){
-  printf("goodbye world");
-  return tb2;
+
+  printf("goodbye konsultaciq");
+  return tb1;
+
 
 }
